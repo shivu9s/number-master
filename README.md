@@ -1,14 +1,7 @@
 # 🎮 Number Master – A React Number-Matching Puzzle Game
 
-> A clean, addictive browser puzzle inspired by *Number Master* by KiwiFun.  
+> A clean, addictive browser puzzle inspired by *Number Master* 
 > Match numbers that are equal or sum to 10 — clear the board, beat the timer, and become the ultimate **Number Master!**
-
----
-
-## 🧩 Gameplay Preview
-
-![Number Master Preview](./preview.png)  
-*(Replace this with an actual screenshot or GIF once available)*
 
 ---
 
@@ -63,5 +56,5 @@ Match **two numbers** if they are:
 
 ---
 
-## 🧱 Project Structure
+
 
